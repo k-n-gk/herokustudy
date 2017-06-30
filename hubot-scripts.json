@@ -1,3 +1,4 @@
 [
-  "jenkins.coffee"
+  "jenkins.coffee",
+  "cron.coffee"
 ]
